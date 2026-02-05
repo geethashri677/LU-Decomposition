@@ -1,4 +1,4 @@
-<img width="1255" height="326" alt="Screenshot 2026-02-05 143521" src="https://github.com/user-attachments/assets/959010ef-fcf2-42d1-a95d-c98e29148323" /># LU Decomposition 
+# LU Decomposition 
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
